@@ -1,0 +1,227 @@
+{
+    "fitness": [
+        {
+            "program": "perfect body system",
+            "trainer": "jasmine taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales ex lorem quis ante. Nulla et quam ac nisl posuere egestas. Donec sollicitudin neque sed nunc malesuada, non sagittis est consequat. Praesent quis libero ac arcu tempus lacinia. Etiam id nisl est. Nulla euismod tincidunt dolor. Donec a aliquet orci, id elementum odio. Nunc laoreet mi in neque convallis, ac vestibulum ante egestas. Ut eleifend ligula quis lectus consectetur accumsan. Nulla mollis risus nisl, quis volutpat enim ullamcorper luctus. Morbi nec congue leo, vitae vulputate sapien. Cras diam dui, porttitor in viverra non, luctus sit amet neque. Mauris at ligula auctor, semper nunc in, pellentesque ante. Praesent euismod dui quis nisl tincidunt aliquet. Sed in lacus eu sapien finibus tempor vitae et sem. Nunc nec faucibus arcu. Integer cursus erat non dolor venenatis pharetra. Donec elementum purus id luctus pretium. Nullam et auctor tellus. Vestibulum rhoncus lectus lectus, eget viverra odio mollis vel. Quisque consequat, dui aliquam ornare finibus, urna ex placerat massa, vel eleifend justo orci id urna. Morbi at hendrerit mauris. In nec laoreet massa, non tincidunt diam. Ut at nisi interdum est facilisis elementum eget a nulla.",
+            "club": "Health Forge",
+            "partners": "multisport",
+            "members": 10,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer.jpg",
+            "rating": 4,
+            "reviews": 66
+        },
+        {
+            "program": "power pump",
+            "trainer": "greg austin",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi.",
+            "club": "iron addicts gym",
+            "partners": "beactive",
+            "members": 7,
+            "totalMembers": 10,
+            "trainerImage": "assets/images/trainer2.jpg",
+            "rating": 4,
+            "reviews": 21
+        },
+        {
+            "program": "body & soul",
+            "trainer": "john taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis.",
+            "club": "gold gym ohio",
+            "partners": "beactive, multisport",
+            "members": 7,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer3.jpeg",
+            "rating": 4.9,
+            "reviews": 12
+        },
+        {
+            "program": "rapid fat burning",
+            "trainer": "alicia reed",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales ex lorem quis ante. Nulla et quam ac nisl posuere egestas. Donec sollicitudin neque sed nunc malesuada, non sagittis est consequat. Praesent quis libero ac arcu tempus lacinia. Etiam id nisl est. Nulla euismod tincidunt dolor. Donec a aliquet orci, id elementum odio. Nunc laoreet mi in neque convallis, ac vestibulum ante egestas. Ut eleifend ligula quis lectus consectetur accumsan. Nulla mollis risus nisl, quis volutpat enim ullamcorper luctus. Morbi nec congue leo, vitae vulputate sapien. Cras diam dui, porttitor in viverra non, luctus sit amet neque. Mauris at ligula auctor, semper nunc in, pellentesque ante. Praesent euismod dui quis nisl tincidunt aliquet. Sed in lacus eu sapien finibus tempor vitae et sem. Nunc nec faucibus arcu. Integer cursus erat non dolor venenatis pharetra. Donec elementum purus id luctus pretium. Nullam et auctor tellus. Vestibulum rhoncus lectus lectus, eget viverra odio mollis vel. Quisque consequat, dui aliquam ornare finibus, urna ex placerat massa, vel eleifend justo orci id urna. Morbi at hendrerit mauris. In nec laoreet massa, non tincidunt diam. Ut at nisi interdum est facilisis elementum eget a nulla.",
+            "club": "fit life",
+            "partners": "multisport",
+            "members": 8,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer4.jpg",        
+            "rating": 3.6,
+            "reviews": 134
+        },
+        {
+            "program": "perfect body system",
+            "trainer": "jasmine taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida.",
+            "club": "Health Forge",
+            "partners": "multisport",
+            "members": 10,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer5.jpeg",
+            "rating": 4.0,
+            "reviews": 66
+        },
+        {
+            "program": "power pump",
+            "trainer": "greg austin",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan.",
+            "club": "iron addicts gym",
+            "partners": "beactive",
+            "members": 7,
+            "totalMembers": 10,
+            "trainerImage": "assets/images/trainer.jpg",
+            "rating": 4.2,
+            "reviews": 21
+        }
+    ],
+    "running": [
+        {
+            "program": "body & soul",
+            "trainer": "john taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue.",
+            "club": "gold gym ohio",
+            "partners": "beactive, multisport",
+            "members": 7,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer3.jpeg",
+            "rating": 4.9,
+            "reviews": 12
+        },
+        {
+            "program": "rapid fat burning",
+            "trainer": "alicia reed",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales.",
+            "club": "fit life",
+            "partners": "multisport",
+            "members": 8,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer4.jpg",        
+            "rating": 3.6,
+            "reviews": 134
+        },
+        {
+            "program": "perfect body system",
+            "trainer": "jasmine taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum  justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales ex lorem quis ante.",
+            "club": "Health Forge",
+            "partners": "multisport",
+            "members": 10,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer5.jpeg",
+            "rating": 4.0,
+            "reviews": 66
+        },
+        {
+            "program": "power pump",
+            "trainer": "greg austin",
+            "info": "Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales ex lorem quis ante. Nulla et quam ac nisl posuere egestas. Donec sollicitudin neque sed nunc malesuada, non sagittis est consequat. Praesent quis libero ac arcu tempus lacinia. Etiam id nisl est. Nulla euismod tincidunt dolor. Donec a aliquet orci, id elementum odio. Nunc laoreet mi in neque convallis, ac vestibulum ante egestas. Ut eleifend ligula quis lectus consectetur accumsan. Nulla mollis risus nisl, quis volutpat enim ullamcorper luctus. Morbi nec congue leo, vitae vulputate sapien. Cras diam dui, porttitor in viverra non, luctus sit amet neque. Mauris at ligula auctor, semper nunc in, pellentesque ante. Praesent euismod dui quis nisl tincidunt aliquet. Sed in lacus eu sapien finibus tempor vitae et sem. Nunc nec faucibus arcu. Integer cursus erat non dolor venenatis pharetra. Donec elementum purus id luctus pretium. Nullam et auctor tellus. Vestibulum rhoncus lectus lectus, eget viverra odio mollis vel. Quisque consequat, dui aliquam ornare finibus, urna ex placerat massa, vel eleifend justo orci id urna. Morbi at hendrerit mauris. In nec laoreet massa, non tincidunt diam. Ut at nisi interdum est facilisis elementum eget a nulla.",
+            "club": "iron addicts gym",
+            "partners": "beactive",
+            "members": 7,
+            "totalMembers": 10,
+            "trainerImage": "assets/images/trainer.jpg",
+            "rating": 4.2,
+            "reviews": 21
+        }
+    ],
+    "dance": [
+        {
+            "program": "body & soul",
+            "trainer": "john taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales ex lorem quis ante. Nulla et quam ac nisl posuere egestas. Donec sollicitudin neque sed nunc malesuada, non sagittis est consequat. Praesent quis libero ac arcu tempus lacinia. Etiam id nisl est. Nulla euismod tincidunt dolor. Donec a aliquet orci, id elementum odio. Nunc laoreet mi in neque convallis, ac vestibulum ante egestas. Ut eleifend ligula quis lectus consectetur accumsan. Nulla mollis risus nisl, quis volutpat enim ullamcorper luctus. Morbi nec congue leo, vitae vulputate sapien. Cras diam dui, porttitor in viverra non, luctus sit amet neque. Mauris at ligula auctor, semper nunc in, pellentesque ante. Praesent euismod dui quis nisl tincidunt aliquet. Sed in lacus eu sapien finibus tempor vitae et sem. Nunc nec faucibus arcu. Integer cursus erat non dolor venenatis pharetra. Donec elementum purus id luctus pretium. Nullam et auctor tellus. Vestibulum rhoncus lectus lectus, eget viverra odio mollis vel. Quisque consequat, dui aliquam ornare finibus, urna ex placerat massa, vel eleifend justo orci id urna. Morbi at hendrerit mauris. In nec laoreet massa, non tincidunt diam. Ut at nisi interdum est facilisis elementum eget a nulla.",
+            "club": "gold gym ohio",
+            "partners": "beactive, multisport",
+            "members": 7,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer3.jpeg",
+            "rating": 4.9,
+            "reviews": 12
+        },
+        {
+            "program": "rapid fat burning",
+            "trainer": "alicia reed",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi",
+            "club": "fit life",
+            "partners": "multisport",
+            "members": 8,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer4.jpg",        
+            "rating": 3.6,
+            "reviews": 134
+        },
+        {
+            "program": "power pump",
+            "trainer": "greg austin",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis, quam arcu gravida nisi, dignissim sodales ex lorem quis ante. Nulla et quam ac nisl posuere egestas. Donec sollicitudin neque sed nunc malesuada, non sagittis est consequat. Praesent quis libero ac arcu tempus lacinia. Etiam id nisl est. Nulla euismod tincidunt dolor. Donec a aliquet orci, id elementum odio. Nunc laoreet mi in neque convallis, ac vestibulum ante egestas. Ut eleifend ligula quis lectus consectetur accumsan. Nulla mollis risus nisl, quis volutpat enim ullamcorper luctus. Morbi nec congue leo, vitae vulputate sapien. Cras diam dui, porttitor in viverra non, luctus sit amet neque. Mauris at ligula auctor, semper nunc in, pellentesque ante. Praesent euismod dui quis nisl tincidunt aliquet. Sed in lacus eu sapien finibus tempor vitae et sem. Nunc nec faucibus arcu. Integer cursus erat non dolor venenatis pharetra. Donec elementum purus id luctus pretium. Nullam et auctor tellus. Vestibulum rhoncus lectus lectus, eget viverra odio mollis vel. Quisque consequat, dui aliquam ornare finibus, urna ex placerat massa, vel eleifend justo orci id urna. Morbi at hendrerit mauris. In nec laoreet massa, non tincidunt diam. Ut at nisi interdum est facilisis elementum eget a nulla.",
+            "club": "iron addicts gym",
+            "partners": "beactive",
+            "members": 7,
+            "totalMembers": 10,
+            "trainerImage": "assets/images/trainer2.jpg",
+            "rating": 4.2,
+            "reviews": 21
+        },
+        {
+            "program": "perfect body system",
+            "trainer": "jasmine taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "club": "Health Forge",
+            "partners": "multisport",
+            "members": 10,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer5.jpeg",
+            "rating": 4.0,
+            "reviews": 66
+        }
+
+    ],
+    "pilates": [
+        {
+            "program": "perfect body system",
+            "trainer": "jasmine taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan.",
+            "club": "Health Forge",
+            "partners": "multisport",
+            "members": 10,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer5.jpeg",
+            "rating": 4.0,
+            "reviews": 66
+        },
+        {
+            "program": "body & soul",
+            "trainer": "john taylor",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan. Phasellus congue, justo scelerisque ullamcorper iaculis.",
+            "club": "gold gym ohio",
+            "partners": "beactive, multisport",
+            "members": 7,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer3.jpeg",
+            "rating": 4.9,
+            "reviews": 12
+        },
+        {
+            "program": "rapid fat burning",
+            "trainer": "alicia reed",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum purus at dui pharetra accumsan.",
+            "club": "fit life",
+            "partners": "multisport",
+            "members": 8,
+            "totalMembers": 14,
+            "trainerImage": "assets/images/trainer4.jpg",        
+            "rating": 3.6,
+            "reviews": 134
+        },
+        {
+            "program": "power pump",
+            "trainer": "greg austin",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "club": "iron addicts gym",
+            "partners": "beactive",
+            "members": 7,
+            "totalMembers": 10,
+            "trainerImage": "assets/images/trainer2.jpg",
+            "rating": 4.2,
+            "reviews": 21
+        }
+    ]
+}

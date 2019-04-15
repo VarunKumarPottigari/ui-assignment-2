@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI assignment</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <link rel="stylesheet" type="text/css" href="styles/navbar.css">
+    <link rel="stylesheet" type="text/css" href="styles/content.css">
+    <link rel="stylesheet" type="text/css" href="styles/card.css">
+    <link rel="stylesheet" type="text/css" href="styles/footer.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <header>
+        <div class="img-overlay overlay-toggle">
+            <div id="main-container">
+                <nav class="nav-bar nav-bar-main">
+                    <div class="nav-item nav-brand">
+                        <a href="index.html">
+                            <i class="fas fa-heartbeat color-theme"></i>
+                            fit
+                            <span class="color-theme">me</span>
+                        </a>
+                    </div>
+                    <ul class="nav-pane">
+                        <li class="nav-item nav-hover active"><a href="index.html">schedule</a></li>
+                        <li class="nav-item nav-hover"><a href="index.html">overview</a></li>
+                        <li class="nav-item nav-hover"><a href="index.html">articles</a></li>
+                        <li class="nav-item nav-user">
+                            <div class="nav-user-notifications"><i class="far fa-envelope"></i></div>
+                            <div class="nav-outer-circle">
+                                <div class="nav-inner-circle"></div>
+                            </div>
+                            <div class="nav-user-name">
+                                Lauren Williams
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+                <div id="toggle-hamburger">
+                    <div class="line" id="line-one"></div>
+                    <div class="line" id="line-two"></div>
+                    <div class="line" id="line-three"></div>
+                </div>
+                <nav class="nav-bar nav-bar-small">
+                    <ul class="nav-pane">
+                        <li class="nav-item active"><a href="index.html">schedule</a></li>
+                        <li class="nav-item"><a href="index.html">overview</a></li>
+                        <li class="nav-item"><a href="index.html">articles</a></li>
+                        <li class="nav-item"><a href="#"><i class="far fa-envelope"></i></a></li>
+                        <li class="nav-item"><a href="#">Lauren Williams</a></li>
+                    </ul>
+                </nav>
+                <div id="title-container">
+                    <div>
+                        <div class="heading-container">
+                            <h1>Let us find your perfect <span class="color-theme2">&fnof;itness</span> classes!
+                            </h1>
+                        </div>
+                        <div class="search-container">
+                            <input class="search-bar" placeholder="Enter your location">
+                            <button class="button-primary">search</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main id="content">
+        <section class="content-tabs">
+            <div class="content-tab current-tab">
+                <a href="tab-data-1">
+                    <i class="fas fa-spa"></i>
+                </a>
+                <span>Yoga</span>
+            </div>
+            <div class="content-tab">
+                <a href="tab-data-2">
+                    <i class="fas fa-running"></i>
+                </a>
+                <span>Fitness</span>
+            </div>
+            <div class="content-tab">
+                <a href="tab-data-3">
+                    <i class="fas fa-caret-right"></i>
+                </a>
+                <span>Dance</span>
+            </div>
+            <div class="content-tab">
+                <a href="tab-data-4">
+                    <i class="fas fa-dumbbell"></i>
+                </a>
+                <span>Pilates</span>
+            </div>
+        </section>
+        <section class="content-data">
+            <section id="tab-data-1" class="tab-pane active"></section>
+            <section id="tab-data-2" class="tab-pane"></section>
+            <section id="tab-data-3" class="tab-pane"></section>
+            <section id="tab-data-4" class="tab-pane"></section>
+        </section>
+    </main>
+
+    <footer class="footer footer-main">
+        <div class="footer-container">
+            <div class="footer-brand">
+                <div class="footer-brand-head">Acko General Insurance Ltd.</div>
+                <div>Unit No. 301 & 302, 3rd Floor, F wing, Lotus Corporate Park,
+                    Off Western Express Highway, Jay Coach, Goregaon East, Mumbai 400063.
+                </div>
+                <div>Email: hello@acko.com</div>
+                <div>Phone: 1860 266 2256</div>
+            </div>
+            <section class="footer-col">
+                <h3>company</h3>
+                <ul>
+                    <li>about us</li>
+                    <li>board of directors</li>
+                    <li>careers</li>
+                    <li>articles</li>
+                    <li>partnerships</li>
+                    <li>sitemap</li>
+                </ul>
+            </section>
+            <section class="footer-col">
+                <h3>support</h3>
+                <ul>
+                    <li>consumer buying process</li>
+                    <li>cancellations and refunds</li>
+                    <li>customer service</li>
+                    <li>downloads</li>
+                    <li>contact us</li>
+                </ul>
+            </section>
+            <section class="footer-col">
+                <h3>legal</h3>
+                <ul>
+                    <li>whistleblower policy</li>
+                    <li>public disclosure</li>
+                    <li>financials & disclosures</li>
+                    <li>privacy policy</li>
+                    <li>terms & conditions</li>
+                    <li>stewardship code</li>
+                </ul>
+            </section>
+        </div>
+    </footer>
+
+    <script src="scripts/navbar.js"></script>
+    <script src="scripts/content.js"></script>
+    <script src="scripts/data.js"></script>
+</body>
+
+</html>

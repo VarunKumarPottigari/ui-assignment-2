@@ -1,0 +1,232 @@
+.card {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 0.5rem;
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  color: #727272;
+  border-radius: 5px;
+  box-shadow: 0px 1px 2px 0px #acacac;
+}
+
+.card-trainer-image-container {
+  position: relative;
+  top: -2rem;
+  width: 10rem;
+  height: 10rem;
+}
+
+.card-trainer-image {
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  object-position: top left;
+  border-radius: 5px;
+}
+
+.card-info-header {
+  text-transform: capitalize;
+  color: #0d3a27;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.card-info-trainer {
+  text-transform: capitalize;
+  font-weight: 700;
+  color: #464646;
+}
+
+.card-sub {
+  font-weight: 700;
+  text-transform: capitalize;
+  color: #0d3a27;
+}
+
+.card-sub-info {
+  text-transform: capitalize;
+}
+
+.card-info {
+  align-self: flex-end;
+}
+
+.card-info-scheduler {
+  justify-self: end;
+  align-self: flex-end;
+}
+
+.card-info-rating {
+  justify-self: end;
+  align-self: end;
+}
+
+.card-info-users {
+  display: flex;
+  align-self: end;
+}
+
+.button-schedule {
+  text-shadow: 0px 1px 4px #4b4b4b;
+  box-shadow: 0px 5px 10px 0px #969696;
+  font-weight: 700;
+  padding: 0.5rem 2.4rem !important;
+}
+
+.button-schedule-active {
+  background-color: #00a80e !important;
+  padding: 0.5rem 2rem !important;
+  transition: 100ms;
+  transition-timing-function: ease-in;
+}
+
+.button-schedule-active:hover {
+  background-color: #004906 !important;
+  padding: 0.5rem 2rem !important;
+}
+
+.stars {
+  margin-bottom: 5px;
+}
+
+.stars-outer {
+  position: relative;
+  display: inline-block;
+  transform: rotateY(180deg);
+}
+
+.stars-outer input {
+  display: none;
+}
+
+.stars-outer label {
+  display: inline-block;
+  cursor: pointer;
+  width: 20px;
+}
+
+.stars-outer label::before {
+  content: "\f005";
+  font-family: "Font Awesome 5 Free";
+  position: relative;
+  display: block;
+  font-size: 20px;
+  color: #707070;
+}
+
+.stars-outer label::after {
+  content: "\f005";
+  font-family: "Font Awesome 5 Free";
+  position: absolute;
+  display: block;
+  font-size: 20px;
+  color: #fff01f;
+  font-weight: 900;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s;
+  text-shadow: 0 2px 5px #00000080;
+}
+
+.stars-outer input:hover ~ label::after {
+  opacity: 1;
+  color: #ffc81f;
+}
+
+.stars-outer label:hover::after,
+.stars-outer label:hover ~ label::after,
+.stars-outer input:checked ~ label::after {
+  opacity: 1;
+}
+
+.outer-circle {
+  width: 2rem;
+  height: 2rem;
+  background-color: #fff;
+  border-radius: 1rem;
+}
+
+.inner-circle {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #000000;
+  border-radius: 0.9rem;
+  transform: translateX(0.1rem) translateY(0.1rem);
+}
+
+.circle-1 {
+  position: relative;
+  left: -0.6rem;
+}
+
+.circle-2 {
+  position: relative;
+  left: -1.2rem;
+}
+.circle-3 {
+  position: relative;
+  left: -1.8rem;
+}
+.circle-4 {
+  position: relative;
+  left: -2.4rem;
+}
+
+.inner-circle-0 {
+  background-color: #ff0000;
+}
+
+.inner-circle-1 {
+  background-color: #eeff00;
+}
+
+.inner-circle-2 {
+  background-color: #0084ff;
+}
+
+.inner-circle-3 {
+  background-color: #a200ff;
+}
+
+.inner-circle-4 {
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.inner-circle-4-text {
+  position: relative;
+  top: -0.2rem;
+  left: -0.2rem;
+}
+
+@media (min-width: 768px) {
+  .card-trainer-image {
+    height: 11rem;
+    width: 11rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .card-trainer-image {
+    height: 9rem;
+    width: 9rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card-trainer-image {
+    height: 10rem;
+    width: 10rem;
+  }
+}
+
+@media (min-width: 1600px) {
+  .card-trainer-image {
+    height: 11rem;
+    width: 12rem;
+  }
+}
